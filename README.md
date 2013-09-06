@@ -25,5 +25,4 @@ window.onload=function(){
  document.body.appendChild(e); 
 } 
 </script> 
-</code>
 ```
