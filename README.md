@@ -8,6 +8,7 @@ How to Use
 ==
 Use the following javascript code to add the browser-update notification:
 
+<code>
 <script type="text/javascript"> 
 var $buoop = {} 
 $buoop.ol = window.onload; 
@@ -24,3 +25,4 @@ window.onload=function(){
  document.body.appendChild(e); 
 } 
 </script> 
+</code>
