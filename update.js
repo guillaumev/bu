@@ -170,7 +170,7 @@ var sheet = document.createElement("style");
 var style = ".buorg {position:absolute;z-index:111111;\
 width:100%; top:0px; left:0px; \
 border-bottom:1px solid #A29330; \
-background:#FDF2AB no-repeat 10px center url(http://browser-update.org/img/dialog-warning.gif);\
+background:#FDF2AB no-repeat 10px center url(https://raw.github.com/guillaumev/bu/master/dialog-warning.gif);\
 text-align:left; cursor:pointer; \
 font-family: Arial,Helvetica,sans-serif; color:#000; font-size: 12px;}\
 .buorg div { padding:5px 36px 5px 40px; } \
